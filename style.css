@@ -1,0 +1,505 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    
+    width: 100%;
+    height: 102px;
+   
+    
+    
+   
+}
+.navg{
+    width: 100%;
+    height: 102px;
+    background-color: #fff;
+    cursor: pointer;
+    position: relative;
+    font-size: 18px;
+    display: flex;
+    position: fixed;
+   
+    
+    
+   
+}
+
+.items1{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    cursor: pointer;
+    
+ 
+
+    
+    
+
+}
+.logo{
+   padding-top:25px;
+   margin-left: 50px;
+}
+
+.home{
+    padding-top: 40px;
+}
+
+.home:hover{
+    color: #198754;
+    text-decoration: underline;
+
+}
+.items2{
+    width: 25%; display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    font-size: large;
+    cursor: pointer;
+    margin-left: 10%;
+    color: #9ca3af;
+    
+ 
+}
+
+
+.items2 input{
+width: 340px;
+height: 45px;
+text-align: center;
+border-radius: 1.25rem;
+box-shadow: 0 0 2px #00000012, 0 2px 2px #0000000f, 0 1px 3px #0000001a;
+border: none;
+letter-spacing: .10em;
+
+
+
+  
+
+}
+.acccount{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+
+.searchsvg{
+    height: 25px;
+    width: 30px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 10px;
+   
+
+   
+    
+}
+.container{
+    width: 100%;
+    background-color:#1e3932;
+    height: 100px;
+  
+}
+.starknow{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.text{
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+    
+}
+.knowmore{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color:#1e3932; 
+    color: white;
+    border-color: white;
+    cursor: pointer;
+    font-weight: bolder;
+    margin-right: -100px;
+}
+.slider{
+    margin-top: 50px;
+    margin-left: 180px;
+    width: 80%;
+    height: 250px;
+    background-image: url(./images/BANNER_BG_WEB_452993d1ad.png);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    display: flex;
+    cursor: pointer;
+   
+}
+    
+.tea{
+    width: 100px;
+    background-repeat: no-repeat;
+}
+.allnew{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: larger;
+
+}
+.refresh{
+    font-weight: bolder;
+    font-size: larger;
+}
+.explore{
+    width: 200px;
+    height: 45px;
+    border-radius: 20px;
+    margin-top: 160px;
+    margin-left: 250px;
+    background-color: #00754a;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    border: none;
+}
+.handcraftedCurations{
+    margin-top: 80px;
+    margin-left: 180px;
+    width: 100%;
+
+}
+.food{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+   
+}
+.fooditems{
+    height: 108px;
+    width: 108px;
+    border-radius: 50%;
+}
+.BaristaRecommends{
+    width: 100%;
+    height: 380px;
+    background: #edebe9;
+    margin-top: 150px;
+    
+}
+.barista{
+    display: flex;
+    width: 29%;
+    height: 180px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.BaristaRecommends h1{
+    margin-left: 180px;
+    padding-top: 30px;
+}
+.bestseller{
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.veg{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.additem input{
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #00754a;
+    font-size: 15px;
+    font-weight: bolder;
+    margin-top: 120px;
+    margin-left: 40px;
+    border: none;
+    cursor: pointer;
+}
+.additem input:hover{
+    background-color:#1e3932;
+
+
+}
+
+h4{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+h6{
+    color: rgba(85, 86, 87, 0.75);
+    margin-top: 5px;
+}
+.viewmenu{
+    text-decoration: none;
+    color: #00754a;
+    font-weight:bolder ;
+    font-size: 18px;
+    width: 250PX;
+    
+    
+}
+.view{
+    display: flex;
+    margin-left: 90%;
+    margin-top: -270px;
+    
+}
+.leaf{
+    margin-top: -30px;
+    width: 70PX;
+    margin-left: 110px;
+}
+.viewdiv{
+    margin-right: 30PX;
+    width: 250PX;
+    position: absolute;
+    margin-left: -50px;
+    margin-top: 10px;
+}
+.learnmore{
+    width: 100%;
+    height: 620px;
+    background-color: #edebe9;
+    margin-top: 80px;
+}
+.learnmorea{
+    
+    margin-left: 1630px;
+    margin-top: -20px;
+    
+
+}
+.learnmorea a{
+    text-decoration: none;
+    color:#00754a ;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.learn{
+    margin-left: 180px;
+    padding-top: 30px;
+}
+
+.liveevent{
+    width: 80%;
+    height:472px;
+    margin-left: 200px;
+    margin-top: 40px;
+    object-fit: cover;
+    border-radius: 8px;
+    cursor: pointer;
+    
+    
+}
+   
+.coffeeculture{
+    margin-left: 250px;
+    position: absolute;
+    margin-top: 60px;
+    color: #096;
+    font-size: 9px;
+    background: #e6edeb;
+    border-radius: 4px;
+    padding: 2px 4px;
+    gap: 2px;
+    letter-spacing: .25em;
+    width: 100px;
+    height: 25px;
+    border:  none;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 9px;
+   
+    
+}
+.ArtSciencepbu{
+    color: #fff;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -230px;
+    cursor: pointer;
+
+}
+.ArtScience{
+    font-size: 35px;
+}
+.ArtSciencepbu p{
+    font-size: 19px;
+}
+.ArtSciencepbu input{
+    width: 230px;
+    height: 40px;
+    border-radius: 30px;
+   font-weight: bolder;
+   border: none;
+   margin-top: 60px;
+   cursor: pointer;
+}
+.footer{
+    background-color: #0e382c;
+    width: 100%;
+    height: 1100px;
+    margin-top: 200px;
+    
+
+}
+.footlogo img{
+    margin-top: 180px;
+    margin-left: 100px;
+    width: 80px;
+    cursor:auto;
+}
+.footabtus{
+    margin-left: 400px;
+    margin-top: -80px;
+    color: #fff;
+    cursor: pointer;
+}
+.footabtus h2{
+    font-weight: bolder;
+
+}
+.footabtus p{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.footabtus p:hover{
+    color: #9ca3af;
+}
+.footresp{
+    margin-left: 650px;
+    margin-top: -180px;
+    color: #fff;
+    cursor: pointer;
+
+}
+.footresp p{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.footresp p:hover{
+    color: #9ca3af;
+}
+.footquick{
+    margin-left: 900px;
+    margin-top: -280px;
+    color: #fff; 
+    cursor: pointer;
+
+}
+.footquick p{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.footquick p:hover{
+    color: #9ca3af;
+}
+.footleg{
+    margin-left: 1200px;
+    margin-top: -550px;
+    color: #fff; 
+    cursor: pointer;
+
+}
+.footleg p{
+    margin-top: 30px;
+    font-size: 18px;
+ }
+ .footleg p:hover{
+    color: #9ca3af;
+ }
+ .socialmedia{
+    margin-top: 500px;
+    margin-left: 100px;
+    cursor: pointer;
+ }
+ .socialmedia h2{
+    color: white;
+    
+ }
+ .socialmedia img{
+    margin-top: 20px;
+    width: 40px;
+ }
+ .facebook{
+    margin-left: 30px;
+ }
+ .twitter{
+    margin-left: 30px;
+ }
+ .appplay{
+    margin-left: 400px;
+    margin-top: -90px;
+    cursor: pointer;
+ }
+.footmenu{
+    width: 90%;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-top: 1px solid white;
+    
+   
+}
+    
+.footmenu1{
+    width:35%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    position: relative;
+    
+}
+.footmenu1p1{
+    width: 140px;
+    border-right: 1px solid #fff;
+}
+.footmenu1p2{
+    border-right: 1px solid #fff;
+    width: 140px;
+}
+.footmenu1p3{
+    width: 130px;
+    border-right: 1px solid #fff;
+}
+.footmenu1 p{
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+.footmenu1 div:hover{
+    color: #9ca3af;
+}
+
+.footmenu2 p{
+    color: #fff;
+    margin-top: -19px; 
+    width: 358px;
+    margin-left: 1350px;
+    cursor: pointer;
+    
+    
+}
+.footmenu p:hover{
+    color: #9ca3af;
+    
+}
+
+
+
+
+  
